@@ -2,6 +2,7 @@
 
 #include "stdafx.h"
 int a;
+int d;
 
 int main()
 {
